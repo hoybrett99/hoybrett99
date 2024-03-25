@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/AnalysisWithBrett/AnalysisWithBrett/blob/main/github-header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Brett Hoy</h1>
 <h3 align="center">An Entry-Level Data Analyst with a huge passion for machine learning</h3>
-<img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 
 - 🔭 I’m currently working on **my project which is to predict football outcomes with machine learning algorithm**
 
