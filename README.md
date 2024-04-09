@@ -3,15 +3,17 @@
 <h3 align="center">An Entry-Level Data Analyst with a huge passion for machine learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 
-- 🔭 I’m currently working on **my project which is to predict football outcomes with machine learning algorithm**
+- 🔭 I’m currently participating in a Data Science bootcamp to **expand my skillset in python**
+  
+- I am also currently working on a project from Kaggle **which is to uncover Titanic's missing data**
 
-- 🌱 I’m currently learning **Supervised learning from the book "Introduction to Statistical Learning with Applications in R"**
+- 🌱 I’m currently learning **Supervised learning from the book "Introduction to Statistical Learning with Applications in R"  and "Forecasting: Principles & Practice"**
 
 - 👨‍💻 All of my projects are available at [https://hoybrett99.wixsite.com/bretthoy/projects](https://hoybrett99.wixsite.com/bretthoy/projects)
 
 - 📫 How to reach me **hoybrett99@gmail.com**
 
-- 📄 Know about my experiences [https://hoybrett99.wixsite.com/bretthoy/resume](https://hoybrett99.wixsite.com/bretthoy/resume)
+- 📄 Know about my technical experiences [https://hoybrett99.wixsite.com/bretthoy/resume](https://hoybrett99.wixsite.com/bretthoy/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
