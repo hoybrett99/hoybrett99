@@ -1,11 +1,11 @@
 ![MasterHead](https://github.com/AnalysisWithBrett/AnalysisWithBrett/blob/main/github-header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Brett Hoy</h1>
-<h3 align="center">An Entry-Level Data Analyst with a huge passion for machine learning</h3>
+<h3 align="center">An Entry-Level Data Analyst with a huge passion for data science</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 
-- 🔭 I’m currently participating in a Data Science bootcamp to **expand my skillset in python**
+- 🔭 I’m currently volunteering as a data analyst for Omdena to work on their project "Housing Affordability Analysis in the Greater Parisian Region".
   
-- I am also currently working on a project from Kaggle **which is to uncover Titanic's missing data**
+- I am also currently working on a Web Scraping project **using RSelenium**
 
 - 🌱 I’m currently learning **Supervised learning from the book "Introduction to Statistical Learning with Applications in R"  and "Forecasting: Principles & Practice"**
 
@@ -26,4 +26,4 @@
 
 
 <h3 align="left">R Libraries:</h3>
-<p align="left"> <a  target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/ggplot2.svg" alt="r" width="60" height="60"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/pipe.svg" alt="power bi" width="60" height="60"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/58f99f98e45440afc146c34ca871ed7c1fb14c34/SVG/dplyr.svg" alt="power bi" width="60" height="60"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/58f99f98e45440afc146c34ca871ed7c1fb14c34/SVG/lubridate.svg" alt="power bi" width="60" height="60"/> </a><a target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg" alt="python" width="60" height="60"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyr.svg" alt="sql server" width="60" height="60"/> </a> </p>
+<p align="left"> <a  target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/ggplot2.svg" alt="r" width="60" height="60"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/pipe.svg" alt="power bi" width="60" height="60"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/58f99f98e45440afc146c34ca871ed7c1fb14c34/SVG/dplyr.svg" alt="power bi" width="60" height="60"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/58f99f98e45440afc146c34ca871ed7c1fb14c34/SVG/lubridate.svg" alt="power bi" width="60" height="60"/> </a><a target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg" alt="python" width="60" height="60"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyr.svg" alt="sql server" width="60" height="60"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/shiny.svg" alt="power bi" width="60" height="60"/> </a> </p>
