@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently volunteering as a data analyst for Omdena to work on their project "Housing Affordability Analysis in the Greater Parisian Region".
   
-- I am also currently working on a Web Scraping project **using RSelenium**
+- I am currently working on a personal project to develop a CNN model using TensorFlow for fruit identification.
 
-- 🌱 I’m currently learning **Supervised learning from the book "Introduction to Statistical Learning with Applications in R"  and "Forecasting: Principles & Practice"**
+- 🌱 Additionally, I'm learning to build an app with Kotlin in Android Studio. My goal is to integrate the CNN model into a future project to identify butterfly species.
 
 - 👨‍💻 All of my projects are available at [https://hoybrett99.wixsite.com/bretthoy/projects](https://hoybrett99.wixsite.com/bretthoy/projects)
 
